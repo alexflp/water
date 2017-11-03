@@ -24,7 +24,7 @@
     "passport-http-bearer": "^1.0.1",
     "passport-local": "^1.0.0",
     "rc": "~0.5.0",
-    "sails": "~0.10.5",
+    "sails": "^0.12.14",
     "sails-disk": "~0.10.0",
     "sails-generate-auth": "^0.2.0",
     "sails-postgresql": "^0.10.9",
